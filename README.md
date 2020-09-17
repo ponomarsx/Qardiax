@@ -1,2 +1,2 @@
-# qardiax
+# Qardiax
 Files for the project 
